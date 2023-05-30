@@ -1,0 +1,2 @@
+# landslides
+Inventario de deslizamientos
